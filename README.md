@@ -1,0 +1,2 @@
+# Exposure
+A simple Android application created at HopHacks Fall 2014. Exposure takes as input a company name and queries yahoo for the stock ticker (using JSON parsing). The application then performs a following query using the Bloomberg API to find a few relevant statistics about the stock. There is also an unfinished aspect where the user can take a picture of a sign, and the app will use Tesseract OCR to look up stock information matching (or within the same industry) as the business sign captured,
